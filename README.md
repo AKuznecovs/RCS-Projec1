@@ -9,4 +9,5 @@ Simple webpage - Tribute page.
 Optional:
 
 -JavaScript
+
 -AnimateCSS library for elements animation.
