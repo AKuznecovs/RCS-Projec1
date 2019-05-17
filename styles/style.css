@@ -12,7 +12,7 @@ body {
 header {
   width: 100%;
   min-height: 500px; 
-  background-image: url(/img/bridge.jpeg);
+  background-image: url('../img/town.jpeg');
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center;
