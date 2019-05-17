@@ -1,4 +1,4 @@
-# RCS-Projec1
+# RCS-Project1
 RCS WEB Bootcamp Project1 05.2019
 
 Simple webpage - Tribute page.
