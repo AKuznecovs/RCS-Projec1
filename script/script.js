@@ -34,7 +34,7 @@ function topFunction() {
 }
 
 function scrollFunctionTwo() {
-  if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+  if (document.body.scrollTop > 950 || document.documentElement.scrollTop > 950) {
     document.querySelector(".boxOl").style.display = "block";
   } else {
     document.querySelector(".boxOl").style.display = "none";
