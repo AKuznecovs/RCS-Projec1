@@ -127,7 +127,7 @@ ul li a:hover:not(.active) {
 #main h1 {
     font-size: 4.5em;
     padding-left: 3%;
-    margin-top: -5%;
+/*     margin-top: -2%; */
    
 }
 
@@ -261,5 +261,9 @@ span {
     font-size: 18px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+<<<<<<< HEAD
 
 }
+=======
+  }
+>>>>>>> 1a0b4dba8855c6fbe3e7a32eae75661725f3bdbd
